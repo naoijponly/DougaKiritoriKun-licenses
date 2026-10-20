@@ -1,0 +1,41 @@
+{
+  "publication": {
+    "account_policy": "Use a different GitHub account from the application development repository.",
+    "account": "naoijponly",
+    "repository": "DougaKiritoriKun-licenses",
+    "github_write_performed": false,
+    "public_release_created": false,
+    "note": "Public repository creation and publication of corresponding OSS source/build/license materials explicitly authorized by the user on 2026-10-20. Authentication and public downloads remain to be verified.",
+    "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses",
+    "release_tag": "sources-0.1.0-selfbuild1"
+  },
+  "binaries": [
+    {
+      "file": "ffmpeg.exe",
+      "sha256": "a64314e0f6c3b7803ee32918dd101ed61496f9f8966b43504f2ff130b409e2fe",
+      "size": 168995840
+    },
+    {
+      "file": "ffprobe.exe",
+      "sha256": "04e52180984185f5fd843ccf54a6549eea6180301fac602047d83c44cbe421be",
+      "size": 168781824
+    },
+    {
+      "file": "mpv.exe",
+      "sha256": "4a40f6c5aaba61d5b344c452a2e358f9f53adf3a207dac7023db23f123743af6",
+      "size": 52603904
+    }
+  ],
+  "source_packages": [
+    {
+      "file": "mpv-sources-0.1.0-selfbuild1.zip",
+      "sha256": "41bd2629e96ced73b4d016cac41b41ceed86d4605cbce15ef0d0373eb06bd505",
+      "size": 335016938
+    },
+    {
+      "file": "ffmpeg-sources-N-127650-geceaa54a38-20261018.zip",
+      "sha256": "f18a7b1db3582fb0eec2828487044b3caeadaa9e5fa2bf78900b10002449944b",
+      "size": 1463813119
+    }
+  ]
+}
