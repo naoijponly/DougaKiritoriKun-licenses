@@ -17,9 +17,6 @@ Source release / 対応ソース配布: https://github.com/naoijponly/DougaKirit
   SHA256: `f18a7b1db3582fb0eec2828487044b3caeadaa9e5fa2bf78900b10002449944b`
   Size / サイズ: 1463813119 bytes
 
-Prepared destination; public downloads have not yet been verified.
-公開予定先です。公開ダウンロードの検証が終わるまで外部配布は行わないでください。
-
 ## Corresponding binaries / 対応する実行物
 
 | File | SHA256 |
@@ -31,9 +28,10 @@ Prepared destination; public downloads have not yet been verified.
 ## Build notes / ビルド上の留保
 
 Read BUILDING.md and CONTENTS.json inside each ZIP. Original archives and per-file notices are retained.
+Download the two named source ZIPs above. GitHub's automatic Source code snapshots contain only this repository's documentation and are not the complete corresponding-source packages.
 mpv uses fixed source inputs and the supplied build recipe. The FFmpeg package retains the original BtbN recipe; a byte-identical rebuild has not been performed. The exact host build-helper version selected by its `cargo update cc` step was not recovered. Additional retained audit archives are included conservatively; their inclusion is not a claim that all are linked into the binaries.
 
-各ZIP内のBUILDING.mdとCONTENTS.jsonに構成と手順を記載しています。FFmpegはバイト一致の再ビルド未実施で、元レシピが更新したホスト用cc補助ツールの厳密版は未回収です。余分な調査原本も保守的に収録しており、すべてが実行物へリンクされているという意味ではありません。
+各ZIP内のBUILDING.mdとCONTENTS.jsonに構成と手順を記載しています。GitHubが自動生成するSource codeのZIPだけでは対応ソース一式にならないため、上記の2つのソースZIPを取得してください。FFmpegはバイト一致の再ビルド未実施で、元レシピが更新したホスト用cc補助ツールの厳密版は未回収です。余分な調査原本も保守的に収録しており、すべてが実行物へリンクされているという意味ではありません。
 
 Keep each corresponding source release accessible while distributing its matching binaries.
 対応する実行物を配布する間、当該版のソースと資料を継続して取得できる状態にしてください。
