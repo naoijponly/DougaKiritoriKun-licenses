@@ -3,68 +3,71 @@
     "account_policy": "Use a different GitHub account from the application development repository.",
     "account": "naoijponly",
     "repository": "DougaKiritoriKun-licenses",
+    "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses",
+    "authenticated_owner_verified": "naoijponly (GitHub repository creation UI)",
+    "release_tag": "sources-0.1.0-selfbuild1-r2",
     "github_write_performed": true,
     "public_release_created": true,
-    "note": "User-approved corresponding-source release published under naoijponly. All six assets were downloaded in full without authentication and matched the local SHA256 and size. ZIP metadata and attached source-release.json retain the pre-upload packaging snapshot; repository main and this manifest record current status.",
-    "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses",
-    "release_tag": "sources-0.1.0-selfbuild1",
-    "repository_created": true,
-    "authenticated_owner_verified": "naoijponly (GitHub repository creation UI)",
     "source_downloads_verified": true,
-    "release_url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/tag/sources-0.1.0-selfbuild1",
-    "release_id": 417924001,
+    "note": "Corrected r2 published; all seven assets downloaded without authentication and matched by size/SHA256. Deprecated r1 remains pending explicit deletion confirmation.",
     "verification": {
-      "release_url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/tag/sources-0.1.0-selfbuild1",
-      "release_id": 417924001,
-      "tag": "sources-0.1.0-selfbuild1",
+      "release_url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/tag/sources-0.1.0-selfbuild1-r2",
+      "release_id": 417953524,
+      "tag": "sources-0.1.0-selfbuild1-r2",
       "authentication_used": false,
       "all_verified": true,
       "files": [
         {
           "file": "LICENSE.GPL-3.0.txt",
-          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1/LICENSE.GPL-3.0.txt",
+          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1-r2/LICENSE.GPL-3.0.txt",
           "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
           "size": 35147,
           "verified": true
         },
         {
           "file": "SHA256SUMS.txt",
-          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1/SHA256SUMS.txt",
-          "sha256": "76643ec14f835d0779edc844f160c5327924a88352dbaa78aaa8d47fcb682c29",
-          "size": 214,
+          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1-r2/SHA256SUMS.txt",
+          "sha256": "059d59b37208d677c2dd17f616344f41690c41a2c019f6a115475be6d37735c2",
+          "size": 220,
           "verified": true
         },
         {
           "file": "THIRD_PARTY_NOTICES.txt",
-          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1/THIRD_PARTY_NOTICES.txt",
+          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1-r2/THIRD_PARTY_NOTICES.txt",
           "sha256": "9a1689a6fb2137e89452e8ac83773666dd6fc044ae283659cddd8e52b1d25438",
           "size": 2863976,
           "verified": true
         },
         {
-          "file": "ffmpeg-sources-N-127650-geceaa54a38-20261018.zip",
-          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1/ffmpeg-sources-N-127650-geceaa54a38-20261018.zip",
-          "sha256": "f18a7b1db3582fb0eec2828487044b3caeadaa9e5fa2bf78900b10002449944b",
-          "size": 1463813119,
+          "file": "ffmpeg-sources-N-127650-geceaa54a38-20261018-r2.zip",
+          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1-r2/ffmpeg-sources-N-127650-geceaa54a38-20261018-r2.zip",
+          "sha256": "915683c4d89fbd1a75f54398795b58bab65926c335e99bdbde7ef18a82197354",
+          "size": 603198485,
           "verified": true
         },
         {
-          "file": "mpv-sources-0.1.0-selfbuild1.zip",
-          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1/mpv-sources-0.1.0-selfbuild1.zip",
-          "sha256": "41bd2629e96ced73b4d016cac41b41ceed86d4605cbce15ef0d0373eb06bd505",
-          "size": 335016938,
+          "file": "mpv-sources-0.1.0-selfbuild1-r2.zip",
+          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1-r2/mpv-sources-0.1.0-selfbuild1-r2.zip",
+          "sha256": "047ecaae212ebbb357454810f54d35f48a199501417b1158754e630eafa9a56a",
+          "size": 76686203,
+          "verified": true
+        },
+        {
+          "file": "size-comparison.json",
+          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1-r2/size-comparison.json",
+          "sha256": "479940eddceef3b6ca2c1ccbe7b3cd1ba54699e7a11561883d806c8feea3bb64",
+          "size": 240,
           "verified": true
         },
         {
           "file": "source-release.json",
-          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1/source-release.json",
-          "sha256": "9dfe4468ba3ebc192681b013ff4468f42857212678172f93a5288d90a134f80e",
-          "size": 1462,
+          "url": "https://github.com/naoijponly/DougaKiritoriKun-licenses/releases/download/sources-0.1.0-selfbuild1-r2/source-release.json",
+          "sha256": "3b3031442e8ccb1b08b95a782a178ba8e256dfb57b06060cd70151504b6f0b85",
+          "size": 1571,
           "verified": true
         }
       ]
-    },
-    "source_release_tag_commit": "60870b31428a6d87bc46e1f9f7ad7db744d8035d"
+    }
   },
   "binaries": [
     {
@@ -85,14 +88,14 @@
   ],
   "source_packages": [
     {
-      "file": "mpv-sources-0.1.0-selfbuild1.zip",
-      "sha256": "41bd2629e96ced73b4d016cac41b41ceed86d4605cbce15ef0d0373eb06bd505",
-      "size": 335016938
+      "file": "mpv-sources-0.1.0-selfbuild1-r2.zip",
+      "sha256": "047ecaae212ebbb357454810f54d35f48a199501417b1158754e630eafa9a56a",
+      "size": 76686203
     },
     {
-      "file": "ffmpeg-sources-N-127650-geceaa54a38-20261018.zip",
-      "sha256": "f18a7b1db3582fb0eec2828487044b3caeadaa9e5fa2bf78900b10002449944b",
-      "size": 1463813119
+      "file": "ffmpeg-sources-N-127650-geceaa54a38-20261018-r2.zip",
+      "sha256": "915683c4d89fbd1a75f54398795b58bab65926c335e99bdbde7ef18a82197354",
+      "size": 603198485
     }
   ]
 }
